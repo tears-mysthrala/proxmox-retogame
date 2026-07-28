@@ -1,5 +1,8 @@
 # Reto Admin Proxmox
 
+> [!WARNING]
+> Archived infrastructure training material. Commands, dependencies, operating-system versions, and security assumptions may be outdated. Review every step before using it in a laboratory.
+
 Guía interactiva de retos para mejorar tus habilidades de administración de sistemas usando Proxmox 8.
 
 ## 📋 Retos Disponibles
